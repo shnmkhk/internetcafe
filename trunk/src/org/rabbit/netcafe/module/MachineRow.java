@@ -128,6 +128,7 @@ import org.rabbit.netcafe.util.ResourceUtil;
 /*     */ 
 /*     */   public MachineRow(int serialNo)
 /*     */   {
+	this();
 /* 155 */     this.serialNo = serialNo;
 /*     */ 
 /* 157 */     StringBuffer sb = new StringBuffer(128);
