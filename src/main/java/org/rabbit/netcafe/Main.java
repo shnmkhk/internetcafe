@@ -117,8 +117,3 @@ import org.rabbit.netcafe.util.ResourceUtil;
      frame.pack();
    }
  }
-
-/* Location:           C:\Documents and Settings\Rangs 5\Desktop\netcafe.jar
- * Qualified Name:     org.rabbit.netcafe.Main
- * JD-Core Version:    0.5.3
- */
